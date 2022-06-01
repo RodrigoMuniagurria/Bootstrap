@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0;
+}
+
+section{
+   padding: 50px;
+}
+
+body{
+    background-color: aqua;
+}
+
+.titulo{
+    font-size: 90px;
+}
+
+.texto{
+    font-size: 20px;
+}
+
+.titulo2{
+    font-size: 90px;
+}
+
+.texto2{
+    font-size: 20px;
+}
+
+.titulo3{
+    font-size: 90px;
+}
+
+.texto3{
+    font-size: 20px;
+}
+
